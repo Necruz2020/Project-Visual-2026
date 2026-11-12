@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+ <AddIn Type="Application">
+       <Name>ParameterManagement</Name>
+       <FullClassName>ParameterManagement.App</FullClassName>
+       <Text>ParameterManagement</Text>
+       <Description>ParameterManagement</Description>
+       <VisibilityMode>AlwaysVisible</VisibilityMode>
+       <Assembly>CASA\ParameterManagement.dll</Assembly>
+       <AddInId>dbe5315d-a761-4034-9682-8b04ee6395ac</AddInId>
+    <VendorId>CASA</VendorId>
+    <VendorDescription>CONSTRUCCION Y ADMINISTRACION S.A.</VendorDescription>
+ </AddIn>
+</RevitAddIns>
